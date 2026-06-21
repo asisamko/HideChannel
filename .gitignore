@@ -1,0 +1,10 @@
+.env
+.DS_Store
+src/config.json
+TODO
+.dio
+src/index2.js.env
+
+/node_modules
+package.json
+scr/index2.js
