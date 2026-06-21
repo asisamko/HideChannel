@@ -3,8 +3,8 @@
 
 ---
 
-<h4 align="center"><a href="https://discord.com/oauth2/authorize?client_id=1432776506173685880&permissions=8&integration_type=0&scope=bot" target="_blank">Add Channel Hider Bot to your Server now! 🌟</a></h4>
-
+> [!WARNING]  
+> This is a recovered project from an older repo. Some features may be broken or work only partialy. ***FIXES SOON*** 💪
 
 ## Requirements:
 - Download and install [Node.js](https://nodejs.org/en/download) (latest v24)
@@ -55,4 +55,4 @@
 If you found a bug or have an idea, create a new issue in the [Issue tab](https://gitea.oryks.org/sejmix/discord-channel-hider/issues) or create a new [Pull request](https://gitea.oryks.org/sejmix/discord-channel-hider/pulls)
 
 ---
-Made by [sejmix](https://gitea.oryks.org/sejmix) from Orkys Team <3
+Made by [sejmix](https://gitea.oryks.org/sejmix) from Oryks Team
